@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.manohar.root.geoquiz.CheatActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center">
+
+
+        <TextView
+            android:id="@+id/textviewCheat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Show me the answer"
+            android:padding="10dp"
+            />
+
+        <Button
+            android:id="@+id/showanswer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Show the answer" />
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

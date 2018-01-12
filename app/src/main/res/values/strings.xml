@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="c_question">Is C High level language</string>
+    <string name="gk_question">CM of Telangana is KTR?</string>
+    <string name="gk2_question">APJ Abdul kalam is president of India?</string>
+    <string name="cpp_question">cpp is object oriented?</string>
+    <string name="java_question">Java is interped ?True of false</string>
+    <string name="correct">Correct !!</string>
+    <string name="incorrect">Incorrect !!</string>
+
+</resources>
